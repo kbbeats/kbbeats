@@ -1,4 +1,4 @@
-Hi, I’m Chyngyz
+## Hi, I’m Chyngyz
 
 Software Engineering student focused on machine learning building, AI learning, and real-world implementation.
 Hands-on experience developing ML pipelines, feature engineering, and model training on structured datasets.
